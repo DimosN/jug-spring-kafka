@@ -1,5 +1,5 @@
 # jug-spring-kafka
-Example project about Sping Kafka for Joker Conf
+Example project about Spring Kafka for Joker Conf
 
 
 ## How to start
